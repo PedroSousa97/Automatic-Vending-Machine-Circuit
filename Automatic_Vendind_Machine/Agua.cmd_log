@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Users/henri/Desktop/Sistemas Digitais/Projeto2_MaquinaVendaAutomatic/Agua.v} -lang verilog -prj Projeto2_MaquinaVendaAutomatic -o Agua.spl -module Agua -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Agua.spl {C:/Users/henri/Desktop/Sistemas Digitais/Projeto2_MaquinaVendaAutomatic/Agua.sym} 

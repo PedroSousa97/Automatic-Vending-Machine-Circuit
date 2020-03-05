@@ -1,0 +1,15 @@
+[Inputs]
+CLK
+M0
+M1
+CANCEL
+[Outputs]
+Bebida
+TROCO0
+TROCO1
+TROCO2
+TROCO3
+[BiDir]
+[ATTRIBUTES]
+VeriModel Agua
+
