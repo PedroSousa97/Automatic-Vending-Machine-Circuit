@@ -27,6 +27,10 @@ Note: The project was carried out using two state machines, one for Water, the o
 * SaiRefrigerante - represents the acquisition of the refrigerant (sign of a bit where 1 represents success, otherwise 0);
 * TRR - Change in case of buying a soft drink;
 
+## Note
+
+The project was carried out in the Xilinx ISE software;
+
 ## Authors
 
 * **Pedro Sousa**
