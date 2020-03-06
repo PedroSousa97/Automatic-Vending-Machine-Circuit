@@ -20,6 +20,7 @@ In short, the functions presented above represent the objectives that must be ac
 
 * DRINK - Sign of one bit that represents the exit or success in the purchase of the drink (1 has the drink, 0 has no drink);
 * EXCHANGE - sign of four different variables (EXCHANGE0, EXCHANGE1 ...) that represents the change given by the Machine;
+
 Note: The project was carried out using two state machines, one for Water, the other for Refrigerant. Taking this into account, the selector was implemented in schematic, which is why the Outputs of the simulation differ from those presented above. The outputs of the simulation are as follows:
 * SaiAgua - represents the acquisition of water (sign of a bit where 1 represents success, otherwise 0);
 * TRA - Change in case of buying water;
